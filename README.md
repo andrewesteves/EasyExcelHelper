@@ -12,7 +12,7 @@ public function easy_excel(){
 	$this->layout = 'ajax'; // Permanecer na página
 
 	$this->Model->recursive = 0;
-	$this->set('dados'); // Dados para serem enviar para a view
+	$this->set('dados'); // Dados para serem enviados para a view
 }
 </code>
 </pre>
