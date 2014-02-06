@@ -2,10 +2,9 @@
 <p>Helper para gerar planilhas de excel com agilidade</p>
 
 <h5>Utilização</h5>
-<span>Controller</span>
+<h5>Controller</h5>
 <pre>
 <code>
-
 public $helpers = array('EasyExcel');
 
 public function easy_excel(){
