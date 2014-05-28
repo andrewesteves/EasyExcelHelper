@@ -1,4 +1,4 @@
-<h4>EasyExcelHelper</h4>
+<h4>CakePHP Helper | EasyExcelHelper</h4>
 <p>Helper para gerar planilhas de excel com agilidade</p>
 
 <h5>Utilização</h5>
